@@ -1,4 +1,4 @@
-![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](http://okiseleva.blogspot.com/2018/03/blog-post_59.html))
+!([https://myoctocat.com/assets/images/base-octocat.svg](http://okiseleva.blogspot.com/2018/03/blog-post_59.html))
 ### Привет!👋
 ### Меня зовут Екатерина.Я Junior QA Engineer.
 
